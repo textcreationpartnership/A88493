@@ -1,0 +1,343 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>London's account: or, A calculation of the arbitrary and tyrannicall exactions, taxations, impositions, excises, contributions, subsidies, twentieth parts, and other assessements, within the lines of communication, during the foure yeers of this unnaturall warre. What the totall summe amounts unto, what hath beene disbursed out of it, and what remaines in the accomptants hands.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88493</idno>
+            <idno type="STC">Wing L2915</idno>
+            <idno type="STC">Thomason E373_2</idno>
+            <idno type="STC">ESTC R201323</idno>
+            <idno type="EEBO-CITATION">99861847</idno>
+            <idno type="PROQUEST">99861847</idno>
+            <idno type="VID">113992</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88493)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113992)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 59:E373[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>London's account: or, A calculation of the arbitrary and tyrannicall exactions, taxations, impositions, excises, contributions, subsidies, twentieth parts, and other assessements, within the lines of communication, during the foure yeers of this unnaturall warre. What the totall summe amounts unto, what hath beene disbursed out of it, and what remaines in the accomptants hands.</title>
+               </titleStmt>
+               <extent>[2], 12, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Imprinted in the yeere, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>The final leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "London feb: 1st 1646"; the 7 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Finance, Public --  England --  London --  Early works to 1800.</term>
+               <term>Taxation --  England --  London --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Finance --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113992:1"/>
+            <pb facs="tcp:113992:1" rendition="simple:additions"/>
+            <p>LONDON'S <hi>Account:</hi> OR, A Calculation of the Arbitrary and Tyrannicall Exactions, Taxations, Impoſitions, Exciſes, Contributions, Subſidies, Twentieth Parts, and other Aſſeſſements, within the Lines of Communication, during the foure yeers of this Unna<g ref="char:EOLhyphen"/>turall Warre.</p>
+            <p>VVhat the totall ſumme amounts unto, What hath beene disburſed out of it, and what remaines in the Ac<g ref="char:EOLhyphen"/>comptants hands.</p>
+            <p>Imprinted in the Yeere, 1647.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:113992:2"/>
+            <pb n="1" facs="tcp:113992:2"/>
+            <head>To any READER that loves Reaſon or Underſtanding.</head>
+            <p>YOu that reade, I would have you know and conſider this great oppreſsion that hath been laid upon all men, (ex<g ref="char:EOLhyphen"/>cept the Members of both Houſes) hath occa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ioned me to ſpend ſome few houres to make a Calculation of that maſſe of wealth which hath been within theſe foure yeeres collected in London, and the Pariſhes comprehended within the Weekly Bills. I doubt not, but all have paid who were able, and none eſcaped but my former exception.) Now if thy ſupport be not out of thoſe unlawfull Taxes, (by which meanes thou mayſt be preju<g ref="char:EOLhyphen"/>dicate) Reade and judge; and thou canſt not but finde that I have written, as being free from favour, falſhood, and par<g ref="char:EOLhyphen"/>tiality: For I have omitted the Taxes laid on all Halls and Companies, which hath been great and large ſummes; beſides divers Trades lyable to the Exciſe, it muſt needs be farre greater.</p>
+            <p>But thou mayſt perceive or gueſſe by the bigneſſe of the Paw, of what a huge bulk and body the Beaſt is, as well as the Author can; and know, all the Counties and Cities in <hi>England</hi> and <hi>Wales,</hi> have likewiſe beene charged to the uttermoſt. I confeſſe I have purpoſely omitted the Charge for Armes, and I did it, in regard they inveſted themſelves of all which His Majeſty was owner of at <hi>London, Hull,</hi> and all other places they could, which coſt them nothing (but the taking.) We leave to conſide<g ref="char:EOLhyphen"/>ration, the direfull effects of the iſſues of thoſe collections,
+<pb n="2" facs="tcp:113992:3"/>which only hath beene the Cauſes of ſhedding Innocent Blood, (if our Lawes be Judge) Ruined the Kingdome, moſt intolle<g ref="char:EOLhyphen"/>rably diſhonoured our mercifull and Gracious King, Queene, the Prince, withall the Royall Iſſue, and uſeing all the cruel<g ref="char:EOLhyphen"/>ties, and Avaritious demenours upon the Perſons, Lives, Liberties, Eſtates and Conſciences of as many as have dared either to be Proteſtants or true Subjects; to the encreaſe of Theeves and Beggars, to the making of Widows and fatherleſſe Children, to the plucking downe of the divine vengance upon this afflicted Land, to maintaine and inrich only factious, con<g ref="char:EOLhyphen"/>tentious, and inſolent perſons, the ſhame of Kingdome and City.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="3" facs="tcp:113992:3"/>
+            <head>LONDONS ACCOUNT, &amp;c.</head>
+            <p>IT is (ſaith the wiſeſt of Kings and men) the greateſt of afflictions and oppreſſions, when ſubjects and ſer<g ref="char:EOLhyphen"/>vants rule; and if this Kingdome in generall, and this City in particular, hath not found this Truth, then they are both to learne what Affliction and Oppreſ<g ref="char:EOLhyphen"/>ſion is. But (to confirme its verity) I have here (and I hope it will not be expected exactly, becauſe I proteſt I have not ſeen any Roll of Sellement of any one pariſh, and therefore have no guide to this my Calculation, but firſt, the order for aſſeſſing, and next, the order for a re<g ref="char:EOLhyphen"/>view, leſt any through favour or friendſhip were not ful<g ref="char:EOLhyphen"/>ly aſſeſſed. This conſidered, ſee what a maſſe of treaſure in this City (and her Weekly Bills) hath been levyed to<g ref="char:EOLhyphen"/>wards the Kings, the Kingdomes, and her owne ruine. And leave the Reader to judge by theſe few particulars, how neere the truth this Calculation comes; yet herein is not comprehended neither Pole-money, Royall Sub<g ref="char:EOLhyphen"/>ſidies, ſale of the Iriſh Lands, (becauſe theſe paſſed by Royall conſent) and was at the Parliaments diſpoſu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e; and had they not been diverted from their prop<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r intend<g ref="char:EOLhyphen"/>ments, doubtleſſe would have done more then diſchar<g ref="char:EOLhyphen"/>ged them: Nor that voluntary Contribution to the re<g ref="char:EOLhyphen"/>liefe of the poore diſtreſſed Proteſtants in Ireland: Nor that faſt and looſe trick by inviting ſuch as formerly had paid ſummes in for Land in Ireland, to pay half as much more; for which halfe (if an Order ſpeake truth)
+<pb n="4" facs="tcp:113992:4"/>they ſhal have as much Land, as for their former ſummes paid; and I aſſure you, both of theſe were not inconſide<g ref="char:EOLhyphen"/>rable.</p>
+            <p>Now, to leven the lump of factious and contentious perſons, the firſt courſe muſt be to fill the peoples eares with oppreſſions of Conſcience, and infringements of Liberties, (pills covered with gold, that are treaſon and poyſon within.) Then to diſplace ſolid Magiſtrates and grave Citizens, leſt if ſuch good men were in authority, they might ſowre our lump before it was (by our uſurp<g ref="char:EOLhyphen"/>ing Maſters) well kneaded, by underſtanding mens ſpe<g ref="char:EOLhyphen"/>culative inſight into their proceedings. Thoſe muſt be removed, and in their ſteads, covetous ſharks, and gri<g ref="char:EOLhyphen"/>ping men, (ſuch as never knew faire dealing) ſhallow braind fooles, and little better then inſolent perſons, (men that deſire the place, not deſerve it) muſt be elect<g ref="char:EOLhyphen"/>ed in their roomes, whoſe ignorance proclaimes what they are in their daily conſenting to they knew not well what. For oppreſſion of conſcience, who can juſtly al<g ref="char:EOLhyphen"/>ledge (that is a Royall and a loyal ſubject) that that is an oppreſsion which the Law hath eſtabliſhed? But the ſame forme of Doctrine and Diſcipline which was eſta<g ref="char:EOLhyphen"/>bliſhed in the Church of <hi>England,</hi> by Parliaments, in bleſſed Queene <hi>Elizabeths</hi> Raigue, diſputed and defended by her ſucceſſor, King <hi>James,</hi> (of happy memory) and the opponents ſo ſa isfied, they conſented and ſubſcribed thereunto; maintained and (to his uttermoſt) defended by our now moſt gracious and mercifull Soveraign with the hazard of his life, and according to Law performed in his Chappels and Cathedrall Churches. Now if any Church within His Maieſties Dominions, did wilfully or carel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſly omit what the Law enioyned, it is no oppreſ<g ref="char:EOLhyphen"/>ſion to compell them thereunto, for the Law doth it.
+<pb n="5" facs="tcp:113992:4"/>But doe not thoſe who have cryed out of the oppreſsion of their ten<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et conſciences, ſtraine gnats, and ſwallow beetles? Are their conſciences ſo tender againſt Unifor<g ref="char:EOLhyphen"/>mity of Prayer, (yea and the Lords Prayer too) and yet conſider not how often they have ſworne to ſubmit to it, and their Superiours that impoſed it? <hi>Obedience is bet<g ref="char:EOLhyphen"/>ter then ſacrifice.</hi> Wherefore all that doe adhere to ſuch, doe deſerve our Saviours woe. Obſerve but Gods Judg<g ref="char:EOLhyphen"/>ment on theſe men, that cannot agree either in doctrine or diſcipline, their daily invective pens doe witneſſe this for a truth. For our Liberties, we had them, and enioyed them, whilſt we maintained the Lawes; ſince we have violated thoſe, we are in worſe condition then Turkiſh ſlaves: for who is it that enioyes life or livelyhood lon<g ref="char:EOLhyphen"/>ger then the <hi>beneplacite</hi> of his fellow. Subiects? And if God (for our ſinnes) hath decreed us ſlaves, better it is to be ſo to a Royal King, then to thoſe whoſe cruelties we already ſo much have had tryal of. Our Pulpits and Declarations thunder into the eares of the people, the unlawfulneſſe of Ship, Coat, and Conduct money; As I wil not juſtifie them, ſo (under favour) I cannot con<g ref="char:EOLhyphen"/>ceive them unlawful in a time of neceſsity. And could it be otherwiſe then an urgent need, when His Maieſties Subiects of <hi>Scotland</hi> were in Armes againſt the Kings Ho<g ref="char:EOLhyphen"/>nour, Crowne and Dign ty, marching to inteſt this our peaceable Kingdome, with the calamities of Warre? Beſides, if ſuch Levies were againſt former Lawes, what need we then of our late Acts, that from thence forward no Levies ſhould be laid upon the Subiect, til it paſſed by an Act of Parliament; for was it formerly unlawful, the Law would have cenſured it; and now we know it is ſo. I admire what thoſe men can alledge, that craved, and had this Act paſſed, to curb the prerogative of Kings,
+<pb n="6" facs="tcp:113992:5"/>and yet are the firſt violators of the ſame Law themſelves, whilſt they are ſitting in the ſame place, as they were when they craved to have the ſame Law enacted.</p>
+            <p>Since, they have acknowledged the Lawes cannot queſtion the King for a Breach, (but it can queſtion all and every Subject.) But the Doctrine and Diſcipline of the Church of <hi>England,</hi> eſtabliſhed by law, and the Sub<g ref="char:EOLhyphen"/>jects liberty, hath been, and ever will be maintained and defended againſt all Sectaries and contentious men, by more abler pens: And therefore I will returne to the Cities inconſideratenes, and deſire them (ſince the hard<g ref="char:EOLhyphen"/>neſſe of their hearts diſſwades them) to beleeve, at leaſt they would fancie what the whole Kingdome grones under. And withall to call to mind, that they were not onely the cauſers, but they are ſtill the continuers, and maine actors of all its miſeries. That ſince His Maieſties mercies ſo often tendred cannot, their owne follies ſo plainly evidenced (to ſo great oppreſſion) may reduce their iudgements, to know to whom rightly they doe owe their obediecce, for the Diſciples are not above their Maſter, and obedience is firſt commanded to Em<g ref="char:EOLhyphen"/>perours and Kings, and next, to thoſe whom they ſet over us.</p>
+            <p>I deſire to ſhew my ſelfe a true Patriot, and doubt not but al Loyall and faithfull Subjects will doe the like; as for thoſe who have done otherwayes, God and King <hi>Charles</hi> (upon their true Repentance) take them into favo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r and forgive them; And I would not have them offended if I ſay their owne factions hath cauſed their own fractions, and the flye and under-hand Courſes of many of them hath made them in this world too haſtily R ch; And all ſuch doe make little conſcience of any thing they undertake, for from the begining the Lawes
+<pb n="7" facs="tcp:113992:5"/>of God or man was not, nor to their end ſhal not be their guide. It is worth your conſideration to remember how peny-wiſe you were at the begining of this long-winded Parliament, refuſing the loane of but 100000. l. except His Maieſty would condeſcend, ſome conceive, to an everlaſting Parliament, for an aſſurance of your re<g ref="char:EOLhyphen"/>payment, (which ir you be all re-paid, tis wel) But ſince you have embraced an authority is deſired to be made lawful, and by that unlawful power forced ſo many uniuſt Taxes, as hath (as you ſhal ſee anon) amounted to above ſeuenteene millions and an halfe of pounds within theſe foure yeeres; I may ſay as the Replyer ſaid to you, <hi>You have done, but did you ever underſtand what you did doe?</hi> be<g ref="char:EOLhyphen"/>ſides the Loanes, plunder, and the many Sequeſtrations, (which I have heard are no fewer then 80000 in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>Wales</hi>) which your ſharking Committee-men reſolve to give no good account of: And ſo know you have been in general pound fooliſh; for look but upon the iſſue, it is but a cipher to that which hath been col<g ref="char:EOLhyphen"/>lected.</p>
+            <p>But you may obiect, There is not ſo much come to the Parliaments hands.</p>
+            <p>That cleeres not the Charge, were it iuſt, I ſee no rea<g ref="char:EOLhyphen"/>ſon but it ſhould. And as ſome of our now Magiſtrates and griping Citizens know it, Uniuſt—The report goes, neere halfe the ſaid Collections are fleeced away by ſharking Officers—which is and wil be an ever<g ref="char:EOLhyphen"/>laſting ſhame, and Gods curſe wil attend it, on them and theirs, in regard it hath maintained a moſt bloody and native Warre againſt God, his Church, our Soveraigne, his Loyal Nobility, Gentry and Commonalty, and the blood of thouſands doth cry aloud to the Almighties
+<pb n="8" facs="tcp:113992:6"/>Tribunall for vengeance on the cauſers of theſe unnatu<g ref="char:EOLhyphen"/>rall diviſions. Your inconſtant and wavering thoughts firſt commenc'd this Warre; your hands and purſes (by fraud and violence) have maintained it; and if (from the bottome of your ſoules) you repent not of it, God in the fulneſſe of his time will be avenged on you for it. Let the Lawes of God and the Land be your rule, then I doubt not but we may enjoy peace again. And though the Replyer to your Remonſtrance told you, it is in the Parliaments power to ruine you, they and he knowes (if you reſolve to be honeſt) the contrary. In the mean time, God in mercy look down upon our dread Soveraign, whom you (originally) have neceſſitated, and iniured moſt uniuſtly, with our Queene, Prince, and the reſt of the Royall iſſue. Preſerve (O Lord) and prolong his life, becauſe a more religious, gracious, and mercifull King never reigned in this Kingdome, nor ever was a good King more abuſed by Subiects, nor more undeſer<g ref="char:EOLhyphen"/>vingly worſe ſpoken of. Good God confound and ſcat<g ref="char:EOLhyphen"/>ter all thoſe that delight in, or make a trade of rebellious warre; let them fly and be diſperſt like duſt before the wind: This ſhall be mine, and ought to be the prayer of all loyall Subjects, and true Patriots.</p>
+            <p>
+               <pb n="9" facs="tcp:113992:6"/>
+               <table>
+                  <head>And now behold (I may ſay in part) the ſummes which have been aſſeſſed, payed, and received in London, and her Weekly Bils only.</head>
+                  <row>
+                     <cell>I conceive in the 129. pariſhes, there cannot be fewer inhabi<g ref="char:EOLhyphen"/>tants then the number of 600000. Families, out of that proportion I doubt not for their Twentieth part, not f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>wer have been aſſeſſed then 400000 my reaſons are, firſt, by the Ordinance the Aſſeſſors were to eſtanate all men, and ſo ſelfe them. Now theſe being facti<g ref="char:EOLhyphen"/>ous men, feſſed not according to reaſon or judgement, but (for the Cauſe ſake) according to their will, malice, and ſpleene. I con<g ref="char:EOLhyphen"/>feſſe the Ordinance gave way that men might eaſe themſelves (if over-rated) by declaring upon oath their worth; but this re<g ref="char:EOLhyphen"/>medy was worſe then the diſeaſe, for thereby they muſt diſcover their eſtates, or pay what they were aſſeſſed at. To diſcover their eſtates, endangered their credit, which could not but occaſion their ruine, and ſo neceſſitated to pay ſummes far above mens abilities. Secondly, all Halls of Corporations have been largely eſtimated, &amp; great ſtore of men of known ability forced to pay large ſumms: Now if you conſider every Corporation and man that paid 1000. l at the rate all are valued at one with another, hath paid for 49. more then himſelfe, and ſo for greater or leſſer ſummes according<g ref="char:EOLhyphen"/>ly, for rating theſe 400000 families one with another but at 20. l. a family, it amounts to for the whole,</cell>
+                     <cell>8:000000</cell>
+                  </row>
+                  <row>
+                     <cell>The 50 Subſidi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s granted, if I have not been miſinformed, every Subſidy is 2800. l. which for the 50. is</cell>
+                     <cell>0:140000</cell>
+                  </row>
+                  <row>
+                     <cell>The weekly Faſt dayes, 400000. families for ſix months, rating each family 6. d. a week, though the greateſt part paid 1. ſ. and 2. ſ. but rate them one with another at 6. d. a week, it amounts for 6. months to</cell>
+                     <cell>0:240000</cell>
+                  </row>
+                  <row>
+                     <cell>The aſſeſſement for bringing in the Scots, though none were to be aſſeſſed but ſuch as would not take their oathes they were not worth 1000. l. yet it could not amount to leſſe then</cell>
+                     <cell>0:100000</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">8: 480000</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Now to bring this into an Annuall Calculation to the ſeverall ſummes following, which by Orders hath been levyed by Exciſes, take the fourth part of the ſumme above, and you ſhall find it</cell>
+                     <cell>2: 120000</cell>
+                  </row>
+                  <row>
+                     <cell>The weekly aſſeſſement to maintaine the Armie from 400000 families, at 6. d. a family one with another, and not without juſt cauſe, for I know a poore Porter was compelled to pay 12. d. or go
+<pb n="10" facs="tcp:113992:7"/>a ſouldier, and no able houſholder but payed far larger, and for any thing I could learne, all payed that received not almes. This for ſix months, amounts to</cell>
+                     <cell>0: 240000</cell>
+                  </row>
+                  <row>
+                     <cell>There is not vented in this City in Grocery ware, leſſe then 600000. l. a yeere, which at 1. s. per l. is for the yeere</cell>
+                     <cell>0: 030000</cell>
+                  </row>
+                  <row>
+                     <cell>There is not vented in all ſorts of Mercery ware in this City, leſſe then 500000. at 1. s. per l.</cell>
+                     <cell>0: 025000</cell>
+                  </row>
+                  <row>
+                     <cell>There is not vented by Silkmen leſſe then 400000. a yeere, at 1. s. per l.</cell>
+                     <cell>0: 020000</cell>
+                  </row>
+                  <row>
+                     <cell>There is not vented of all ſorts of Haberdaſhers ware leſſe then 500000. l. a yeere, at 1. s. per l.</cell>
+                     <cell>0: 025000</cell>
+                  </row>
+                  <row>
+                     <cell>There is not vented by Salters and Oylemen leſſe yeerly then 600000. at 1. s. per l.</cell>
+                     <cell>0: 030000</cell>
+                  </row>
+                  <row>
+                     <cell>There is not vented by Linnen Drapers in generall leſſe then 600000. l. a yeere, at 1. s. per l.</cell>
+                     <cell>0: 030000</cell>
+                  </row>
+                  <row>
+                     <cell>There is not vented by Woollen Drapers leſſe then 500000. l. a yeere, at 6 d. per l.</cell>
+                     <cell>0: 012500</cell>
+                  </row>
+                  <row>
+                     <cell>H<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>rs of all ſorts cannot vent leſſe then 100000 a yeere, at 1. s. per l.</cell>
+                     <cell>0: 005000</cell>
+                  </row>
+                  <row>
+                     <cell>Upholſters in their ſeveral dealings 80000 l. a yeer, at 1. s. per l.</cell>
+                     <cell>0: 004000</cell>
+                  </row>
+                  <row>
+                     <cell>Stationers and Paper-ſellers 80000. a yeere, at 1. s. per l.</cell>
+                     <cell>0: 004000</cell>
+                  </row>
+                  <row>
+                     <cell>Leather-ſellers and Trunk-makers in theſe times 200000. at 1. s. per l.</cell>
+                     <cell>0: 010000</cell>
+                  </row>
+                  <row>
+                     <cell>Ironmongers in generall 300000 a yeere, at 1. s. per l.</cell>
+                     <cell>0: 015000</cell>
+                  </row>
+                  <row>
+                     <cell>Spaniſh Tobacco there cannot be leſſe imported then 200000. l. weight, at 2. s. per l. is</cell>
+                     <cell>0: 020000</cell>
+                  </row>
+                  <row>
+                     <cell>Engliſh Plantations 1200000. at 2. d. per l.</cell>
+                     <cell>0: 010000</cell>
+                  </row>
+                  <row>
+                     <cell>Six ſhill beere in 400000. families, admitting one family with another ſpend but 20. barrels a yeere each family, it is 8: 000000. of barrels, at 6. d. the barrell, amounts to</cell>
+                     <cell>0: 200000</cell>
+                  </row>
+                  <row>
+                     <cell>Strong Beere and Ale vented in Innes, Cooks houſes, Ale<g ref="char:EOLhyphen"/>houſes, and Chandlers, of all which in the 129 pariſhes there cannot be leſſe then 8000. if every of theſe draw but one barrell a week, it is 416000. which at 2. s. per barrell amounts to</cell>
+                     <cell>0: 041600</cell>
+                  </row>
+                  <row>
+                     <cell>Strong beere and ale in private houſes, if 200000. of them ſpend but 2. barr. a yeer apiece, it is 400000. bar. at 1. ſ. per bar.</cell>
+                     <cell>0: 020000</cell>
+                  </row>
+                  <row>
+                     <cell>Wine of all ſorts, there is not leſſe imported yeerly then 20000. Tonnes, at 5. l. a Tonne,</cell>
+                     <cell>0: 100000</cell>
+                  </row>
+                  <row>
+                     <cell>Butchers and Poultrers for 400000 families, for they muſt all eate, now one with another cannot ſpend leſſe then 8. s. a weeke, for if ſome poorer ſort ſpend but 5. s. and leſſe they cannot ſpend in a family, others ſpend 15.20.30. yea 40. s. a weeke: But as above at 8. s. a week one with another, it is 8000. l. a week, at 1. s. per l. and for the yeere</cell>
+                     <cell>0: 416000</cell>
+                  </row>
+                  <pb n="11" facs="tcp:113992:7"/>
+                  <row>
+                     <cell>The Annuall Revenue of the Crowne they ſay is eleven hun<g ref="char:EOLhyphen"/>dred thouſand pounds a yeere, but I place here but</cell>
+                     <cell>1:—</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">4: 378100.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <hi>Which for the foure yeeres is ſeventeene millions, five hundred and twelve thouſand foure hundred pounds.</hi> 17. mil. 512400. l.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>I doubt not but it will be expected this yeerly large Income in this City onely ſhould have as large, or (indeed as the Pub<g ref="char:EOLhyphen"/>lique Faith ſtands indebted) farre larger iſſues, elſe it cannot be engaged without unſufferable fraud from the Kingdoms op<g ref="char:EOLhyphen"/>preſſion. But ſince all their Orders, and Speeches to this City, have expreſſed no other iſſues but the Armies pay, conſider, that if this City alone hath for theſe foure yeeres maintained tenne thouſand Foot, pay every ſoulder 8. d. a day for the whole yeere, ſo he ſhould have no free Quarter nor Plunder ſince he is payd, or ſhould be for the whole yeere, excepting Sundaies, and that amounts to but 104333. l. 15. s. But I here adde the Sundayes, and caſt it for 365 dayes to the yeer, allotting the 17333. l. 15. s. to pay all their Officers as duly, yet all together is but</cell>
+                     <cell>121666. l.</cell>
+                  </row>
+                  <row>
+                     <cell>Grant they likewiſe maintaine 2000. Horſe, pay theſe for 313 dayes 2. s. 6. d. a day, it amounts to but 78250. l. But for the payment of their Officers, adde the 52 dayes, which is 13000. l. and both theſe ſummes for the whole yeere is but</cell>
+                     <cell>91250. l.</cell>
+                  </row>
+                  <row>
+                     <cell>Grant twenty of His majeſties Ships, great and ſmall, be em<g ref="char:EOLhyphen"/>ployed yeerly, allotting to every Ship 100 men, which is for the whole 2000 men, though few or none are ſo well manned, pay theſe 2000 fifteen ſhil. a month for the whole yeere, their wages amounts to but 18000. l. but to pay Officers in them, adde 2000. l. more, and all makes but</cell>
+                     <cell>20000: l.</cell>
+                  </row>
+                  <row>
+                     <cell>Victuall theſe 20 Ships with 2000. allotting every man 8. d. a day for the whole yeere, it amounts to little more then</cell>
+                     <cell>24433. l:</cell>
+                  </row>
+                  <row>
+                     <cell>Grant you have 30. merchants Ships great and ſmall in the ſervice, hire them one with another mann'd, victualled, and furniſhed for the Warre at 200. pounds a month, (and ſo you
+<pb n="12" facs="tcp:113992:8"/>may doe) ſay they are in your ſervice nine months in the yeere, it is but</cell>
+                     <cell>54000. l.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">311349:—</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Theſe charges I am certain are the maine ones, and with the largeſt that this City ever was put to, and were it well examined, I conceive a third part of every charge here was not employed from hence alone, for all Counties had their ſhare in pay of the Army, how it is poſſible for ſuch large incomes to be ſo much indebted, ſince the iſſues are not anſwerable, as you ſhall ſee by that ſhould remaine for ballance is to me a riddle, ſince the yeers reſt that this Credit<g ref="char:punc">▪</g> hath, ſtands indebted to the Debit.</cell>
+                     <cell>4: 066751</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">4: 378100</cell>
+                  </row>
+               </table>
+            </p>
+            <q>
+               <l>Grave <hi>Booker</hi> ſhews th' Aſpects, and <hi>Lilly</hi> helps</l>
+               <l>To lick thoſe Meteors (as Bears their whelps)</l>
+               <l>Into his fancies ſhape: But could theſe two</l>
+               <l>Can count the Stars (which few but they can doe)</l>
+               <l>Make a juſt ballance to this large Account,</l>
+               <l>The Daniſh <hi>Tycho Brahe</hi> they'l ſurmount.</l>
+            </q>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:113992:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
